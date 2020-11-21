@@ -11,9 +11,9 @@ title                    : "Huang Kaiyi's Home Page"
 title_separator          : "-"
 name                     : &name "Huang Kaiyi"
 description              : &description "I am a maths student interested in dynamic systems, machine learning, graph theory, and computational neuroscience."
-url                      : https://huangkaiyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huangkaiyikatherine.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huangkaiyi.github.io"
+repository               : "huangkaiyikatherine.github.io/home/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
