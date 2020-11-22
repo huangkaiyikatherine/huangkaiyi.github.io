@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Huang Kaiyi's home on the web!
+This is Huang Kaiyi's home on the web! Please click [here](https://huangkaiyikatherine.github.io/home/files/CV.pdf) for my latest CV.
