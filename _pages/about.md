@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Huang Kaiyi's home on the web!
+Hi, I am currently a research assistant at Department of Mathematics in HKUST.
 
-I am currently a research assistant at Department of Mathematics in HKUST. My research interests include machine learning, dynamic systems, graph theory, computational neuroscience, financial mathematics, stochastic processes, etc. I obtained BSc in Mathematics from CUHK in 2019. Please click [here](https://huangkaiyikatherine.github.io/home/files/CV.pdf) for my latest CV.
+My research interests include machine learning, dynamic systems, graph theory, computational neuroscience, financial mathematics, stochastic processes, etc.
+
+I obtained BSc in Mathematics from CUHK in 2019.
+
+Please click [here](https://huangkaiyikatherine.github.io/home/files/CV.pdf) for my latest CV.
