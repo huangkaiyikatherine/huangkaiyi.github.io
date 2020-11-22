@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Huang Kaiyi"
-description              : &description "I am a maths student interested in dynamic systems, machine learning, graph theory, and computational neuroscience."
+description              : &description ""
 url                      : https://huangkaiyikatherine.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huangkaiyikatherine.github.io/home/"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Huang Kaiyi"
   avatar           : "profile.png"
-  bio              : "I am currently a research assistant at Department of Mathematics in HKUST. I obtained BSc in Mathematics from CUHK in 2019."
-  location         : "Hong Kong"
+  bio              : "Research Assistant"
+  location         : ""
   employer         : "HKUST"
   pubmed           :
   googlescholar    :
