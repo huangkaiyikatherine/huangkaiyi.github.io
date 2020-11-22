@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    external_url: https://huangkaiyikatherine.github.io/home/_pages/CV.pdf
+    url: /CV/
     
 #   - title: "Guide"
 #     url: /markdown/
