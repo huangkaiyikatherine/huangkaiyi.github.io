@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huang Kaiyi's Home Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Huang Kaiyi"
 description              : &description "I am a maths student interested in dynamic systems, machine learning, graph theory, and computational neuroscience."
