@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please click [here](https://huangkaiyikatherine.github.io/_pages/CV.pdf) for my latest CV.
+Please click [here](https://huangkaiyikatherine.github.io/home/_pages/CV.pdf) for my latest CV.
