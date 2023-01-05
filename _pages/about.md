@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a graduate student from Department of Mathematics in UW-Madison.
+Hi, my name is Kaiyi Huang. I am a graduate student from Department of Mathematics in UW-Madison.
 
 My research interest lies in harmonic analysis and its applications in PDEs, number theory, combinatorics, geometric measure theory and machine learning.
 
