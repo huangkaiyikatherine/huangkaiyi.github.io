@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am currently a research assistant at Department of Mathematics in HKUST.
 
-My research interests include machine learning, dynamic systems, graph theory, computational neuroscience, financial mathematics, stochastic processes, etc.
+My research interest lies in harmonic analysis and its applications in PDEs, number theory, combinatorics, geometric measure theory and machine learning.
 
 I obtained BSc in Mathematics from CUHK in 2019.
 
