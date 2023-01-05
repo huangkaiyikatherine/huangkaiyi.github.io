@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Huang Kaiyi"
+name                     : &name "Kaiyi Huang"
 description              : &description
 url                      : https://huangkaiyikatherine.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huang Kaiyi"
+  name             : "Kaiyi Huang"
   avatar           : "profile.png"
-  bio              : "Research Assistant"
+  bio              : "Graduate Student"
   location         :
-  employer         : "HKUST"
+  employer         : "UW-Madison"
   pubmed           :
   googlescholar    :
   email            : "kaiyihuang@ust.hk"
